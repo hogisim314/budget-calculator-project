@@ -9,7 +9,13 @@ export class ExpenseList extends Component {
       <React.Fragment>
         <ul className='list'>
             {/* Expense Item*/}
-            <ExpenseItem></ExpenseItem>
+            {this.props.initialExpenses.map(expense => {
+                return <ExpenseItem 
+                expense = {expense} 
+                key={expense.id}
+                handleDelete={this.props.handleDelete}
+                ></ExpenseItem>
+            })}
         </ul>
         <button className='btn'>
             목록 지우기
