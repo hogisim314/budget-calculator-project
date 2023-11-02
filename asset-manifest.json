@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/budget-calculator-project/static/css/main.8543cb5e.css",
+    "main.js": "/github.io/budget-calculator-project/static/js/main.c3e022d8.js",
+    "static/js/787.b66e7712.chunk.js": "/github.io/budget-calculator-project/static/js/787.b66e7712.chunk.js",
+    "index.html": "/github.io/budget-calculator-project/index.html",
+    "main.8543cb5e.css.map": "/github.io/budget-calculator-project/static/css/main.8543cb5e.css.map",
+    "main.c3e022d8.js.map": "/github.io/budget-calculator-project/static/js/main.c3e022d8.js.map",
+    "787.b66e7712.chunk.js.map": "/github.io/budget-calculator-project/static/js/787.b66e7712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8543cb5e.css",
+    "static/js/main.c3e022d8.js"
+  ]
+}
